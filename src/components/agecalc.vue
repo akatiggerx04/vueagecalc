@@ -71,6 +71,6 @@ export default defineComponent({
         <input type="number" @input="onInput" placeholder="Example: 1998">
         <p class="emoji">{{ emj }}</p>
         <p class="agetext">{{ message }}</p>
-        <footer>Built with ❤️ by wh1ter0seo4.</footer>
+        <footer>Built with ❤️ by akatiggerx04.</footer>
     </div>
 </template>
